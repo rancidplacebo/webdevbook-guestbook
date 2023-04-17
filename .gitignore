@@ -18,4 +18,6 @@ profiles.clj
 /node_modules
 /log
 
+*.db.mv.db
+
 
